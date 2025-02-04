@@ -9,12 +9,21 @@ namespace FundamentalsOfCSharp
 {
     internal class ReadNumberAsAString
     {
-        public void ReadNumber()
+        public void ReadNumberUsingToInt32()
         {
             Console.Write("Enter the number: ");
             string input = Console.ReadLine();
             Console.WriteLine((Convert.ToInt32(input) * 10).ToString());
 
         }
+
+        public void ReadNumberUsingParse()
+        {
+            Console.Write("Enter a number: ");
+            string input = Console.ReadLine();
+            Console.WriteLine((int.Parse(input) * 10).ToString());
+        }
+
+
     }
 }

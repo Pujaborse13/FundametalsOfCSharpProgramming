@@ -41,10 +41,17 @@ class MainClass
         //_________________________________________
 
          */
+
         //4 ReadNumberAsAString
 
-        ReadNumberAsAString readNumberAsAString = new ReadNumberAsAString();
-        readNumberAsAString.ReadNumber();
+        ReadNumberAsAString readNumberAsAString1 = new ReadNumberAsAString();
+        readNumberAsAString1.ReadNumberUsingToInt32();
+
+        ReadNumberAsAString readNumberAsAString2 = new ReadNumberAsAString();
+        readNumberAsAString2.ReadNumberUsingParse();
+
+
+
 
 
 
