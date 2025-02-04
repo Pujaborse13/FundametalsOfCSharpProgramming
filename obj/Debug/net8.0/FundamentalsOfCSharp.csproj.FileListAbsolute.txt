@@ -12,3 +12,4 @@ D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\refi
 D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\FundamentalsOfCSharp.pdb
 D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\FundamentalsOfCSharp.genruntimeconfig.cache
 D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\ref\FundamentalsOfCSharp.dll
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\FundamentalsOfCSharp.sourcelink.json
