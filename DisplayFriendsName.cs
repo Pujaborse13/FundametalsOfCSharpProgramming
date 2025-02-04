@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//1. Write a program which displays 5 your friends' names
+
 namespace FundamentalsOfCSharp
 {
     internal class DisplayFriendsName
