@@ -30,12 +30,22 @@ class MainClass
         squareOfSumAndDifference.SumAndDifference();
 
         //-------------------------------------------------
-        */
+       
 
         //3. DisplayPlace
 
         VisitPlace visitPlace = new VisitPlace();
         visitPlace.DisplayVisitPlaces();
+
+
+        //_________________________________________
+
+         */
+        //4 ReadNumberAsAString
+
+        ReadNumberAsAString readNumberAsAString = new ReadNumberAsAString();
+        readNumberAsAString.ReadNumber();
+
 
 
 
