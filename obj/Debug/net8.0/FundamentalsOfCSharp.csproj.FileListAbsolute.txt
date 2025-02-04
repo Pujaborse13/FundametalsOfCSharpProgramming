@@ -1,0 +1,15 @@
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\bin\Debug\net8.0\FundamentalsOfCSharp.exe
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\bin\Debug\net8.0\FundamentalsOfCSharp.deps.json
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\bin\Debug\net8.0\FundamentalsOfCSharp.runtimeconfig.json
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\bin\Debug\net8.0\FundamentalsOfCSharp.dll
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\bin\Debug\net8.0\FundamentalsOfCSharp.pdb
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\FundamentalsOfCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\FundamentalsOfCSharp.AssemblyInfoInputs.cache
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\FundamentalsOfCSharp.AssemblyInfo.cs
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\FundamentalsOfCSharp.csproj.CoreCompileInputs.cache
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\FundamentalsOfCSharp.dll
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\refint\FundamentalsOfCSharp.dll
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\FundamentalsOfCSharp.pdb
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\FundamentalsOfCSharp.genruntimeconfig.cache
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\ref\FundamentalsOfCSharp.dll
+D:\AcessMeditech\FundamentalsOfCSharp\FundamentalsOfCSharp\obj\Debug\net8.0\FundamentalsOfCSharp.sourcelink.json
