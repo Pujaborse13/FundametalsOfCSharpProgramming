@@ -40,7 +40,7 @@ class MainClass
 
         //_________________________________________
 
-         */
+         
 
         //4 ReadNumberAsAString
 
@@ -52,6 +52,13 @@ class MainClass
 
 
 
+        */
+
+        //5. UniqueCharactersString
+
+
+        UniqueCharactersString uniqueCharactersString = new UniqueCharactersString();
+        uniqueCharactersString.CheckString();
 
 
 
