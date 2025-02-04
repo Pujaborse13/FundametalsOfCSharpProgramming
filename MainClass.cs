@@ -23,6 +23,7 @@ class MainClass
         myFriends4.DisplayFriendNameUserInput();
 
         //-----------------------------------------------------
+
         //2.SquareOfSumAndDifference
 
         SquareOfSumAndDifference squareOfSumAndDifference = new SquareOfSumAndDifference();
@@ -30,6 +31,7 @@ class MainClass
 
         //-------------------------------------------------
         */
+
         //3. DisplayPlace
 
         VisitPlace visitPlace = new VisitPlace();

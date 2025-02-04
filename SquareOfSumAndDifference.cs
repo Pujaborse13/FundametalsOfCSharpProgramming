@@ -17,8 +17,6 @@ namespace FundamentalsOfCSharp
             Console.Write("Enter the second number");
             double secondNumber = Convert.ToDouble(Console.ReadLine());
 
-
-
             double sum = firstNumber + secondNumber;
             double difference = firstNumber - secondNumber;
 
