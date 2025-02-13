@@ -58,10 +58,40 @@ class MainClass
         uniqueCharactersString.CheckString();
 
 
+        
+
+        //Lambda Expression
+
+        EvenNumber_LambdaEx lambdaExDemo = new EvenNumber_LambdaEx();
+        lambdaExDemo.LambdaExpressionDemo();
+
+
+        SquareOfNum_LambdaEx square  = new SquareOfNum_LambdaEx();
+        square.SquareOFNum();
+
+
+        SumOFTwoNumbers_LambdaEx sumOFTwoNumbers = new SumOFTwoNumbers_LambdaEx();
+        sumOFTwoNumbers.SumOfNum();
+        
+
+
+        CheckName name = new CheckName();
+        name.CheckNameList();
+        
+
+        ListLambdaOperation listLambdaOperation = new ListLambdaOperation();
+        listLambdaOperation.listLambda();
         */
 
-        LambdaExDemo lambdaExDemo = new LambdaExDemo();
-        lambdaExDemo.LambdaExpressionDemo();
+        Employee_LINQ employee_LINQ = new Employee_LINQ();
+        employee_LINQ.EmployeeData();
+
+
+
+
+
+
+
 
 
 
