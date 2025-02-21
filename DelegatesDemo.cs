@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace Delegates_Refelection
+{
+
+    public delegate void MessagePrint(string message);
+        public class DelegatesDemo
+        {
+
+            public static void MessagePrinting(string message)
+            {
+                Console.WriteLine(message);
+        
+            }
+
+
+   
+        }
+}
