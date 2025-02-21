@@ -12,11 +12,15 @@ namespace Delegates_Refelection
 
             public static void MessagePrinting(string message)
             {
-                Console.WriteLine(message);
+                Console.WriteLine("Message : "+message);
         
             }
 
+            public static void FilePrinting(string message)
+            {
 
-   
+                Console.WriteLine("File : "+message);
+            }
+
         }
 }

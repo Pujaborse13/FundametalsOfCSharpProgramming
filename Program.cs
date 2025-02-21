@@ -9,7 +9,9 @@ namespace Delegates_Refelection
             {
 
                 MessagePrint msgprint = new MessagePrint(DelegatesDemo.MessagePrinting);
+                msgprint += DelegatesDemo.FilePrinting;
                 msgprint("Hello,Puja");
+
 
 
 
