@@ -1,4 +1,5 @@
-﻿using Delegates_Refelection;
+﻿using System.ComponentModel;
+using Delegates_Refelection;
 namespace Delegates_Refelection
 { 
 
@@ -16,7 +17,7 @@ namespace Delegates_Refelection
             MessagePrint msgprint = new MessagePrint(DelegatesDemo.MessagePrinting);
             msgprint += DelegatesDemo.FilePrinting;
             msgprint("Hello,Puja");
-            */
+            
 
 
             // ---------------------------------------------------------------
@@ -46,10 +47,25 @@ namespace Delegates_Refelection
                     Console.WriteLine("Invalid choice. Please try again.");
                 }
 
-
-
-
             }
+            */
+            //----------------------------------------------------------
+
+            Calculator calc = CalculatorDemo.Add;
+
+            Console.WriteLine("Addition: " + calc(5, 3)); 
+
+            calc = CalculatorDemo.Sub;
+            Console.WriteLine("Subtraction: " + calc(5, 3));
+
+
+
+
+
+
+
+
+
         }
 
 
